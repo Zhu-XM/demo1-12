@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 小明的第一个博客
 
 You can use the [editor on GitHub](https://github.com/Zhu-XM/demo1-12/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
